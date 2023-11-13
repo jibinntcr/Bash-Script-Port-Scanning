@@ -1,7 +1,7 @@
 # Port Scanner 
 
 ## Description
-This Bash script is a handy tool for scanning open ports on a remote host. It caters to network administrators and security enthusiasts, offering a lightweight and straightforward solution.
+This Bash script is a handy tool for scanning open ports on a remote host. 
 
 ## Getting Started
 ### Prerequisites
