@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# Check if netcat is installed
-if ! command -v nc &> /dev/null; then
-  echo "Error: netcat (nc) is not installed. Please install it and try again."
-  exit 1
-fi
-
 # Display usage information
 echo "Usage: ./port-scanner.sh [IP] [PORT_RANGE]"
 echo
