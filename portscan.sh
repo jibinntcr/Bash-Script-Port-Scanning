@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Port Scanner Script
+# Port Scanner Script -jibinn@mulearn
 
 # Display script usage
 show_usage() {
